@@ -110,5 +110,5 @@ solid@DESKTOP-6PPFSAT:/H/AirBnB_clone$ echo "show User 55b76419-6009-4b36-b88a-7
 
 <h2>AUTHORS</h2>
 
-<li>Erick adikahSoftware Engineering student at Holberton School at alx </li> https://github.com/Erickadikah
-<li>Alvoniah OgegaSoftware Engineering student at Holberton School at alx </li> https://github.com/alvoniah/AirBnB_clone
+<li>Ongoro JumaSoftware Engineering student at alx </li> https://github.com/Codejuma
+<li>Alvoniah OgegaSoftware Engineering student at at alx </li> https://github.com/alvoniah/AirBnB_clone
