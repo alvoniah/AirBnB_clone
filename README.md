@@ -97,9 +97,7 @@ solid@DESKTOP-6PPFSAT:~/H/AirBnB_clone$
 
 <h2>Non - Interactive Mode ⌨️</h2>
 
-solid@DESKTOP-6PPFSAT:~/H/AirBnB_clone$ echo "create User" | ./console.py
-(hbnb) 55b76419-6009-4b36-b88a-7c2930283f4a
-solid@DESKTOP-6PPFSAT:~/H/AirBnB_clone$ echo "show User 55b76419-6009-4b36-b88a-7c2930283f4a" | ./console.py
+solid@DESKTOP-6PPFSAT:/H/AirBnB_clone$ echo "show User 55b76419-6009-4b36-b88a-7c2930283f4a" | ./console.py
 (hbnb) [User] (55b76419-6009-4b36-b88a-7c2930283f4a) {'id': '55b76419-6009-4b36-b88a-7c2930283f4a', 'created_at': datetime.datetime(2023, 10, 14, 12, 37, 15, 575191), 'updated_at': datetime.datetime(2023, 10, 14, 12, 37, 15, 575237)}
 
 <h2>Development environment 🛠️</h2>
