@@ -77,7 +77,7 @@ solid@DESKTOP-6PPFSAT:~/H/AirBnB_clone$ ./console.py
 [BaseModel] (99f01e9a-99c0-42af-8c10-c35cadee1d8f) {'id': '99f01e9a-99c0-42af-8c10-c35cadee1d8f', 'created_at': datetime.datetime(2023, 10, 14, 11, 36, 30, 773211), 'updated_at': datetime.datetime(2023, 10, 14, 11, 36, 30, 773236), 'first_name': 'Betty'}
 (hbnb) Place.update("492f60f3-ff1e-43c7-bb11-f8407b04dd59", "first_name", "John")
 (hbnb) show Place 492f60f3-ff1e-43c7-bb11-f8407b04dd59
-[Place] (492f60f3-ff1e-43c7-bb11-f8407b04dd59) {'id': '492f60f3-ff1e-43c7-bb11-f8407b04dd59', 'created_at': datetime.datetime(2020, 7, 1, 11, 36, 24, 576486), 'updated_at': datetime.datetime(2020, 7, 1, 11, 36, 24, 576530), 'first_name': 'John'}
+[Place] (492f60f3-ff1e-43c7-bb11-f8407b04dd59) {'id': '492f60f3-ff1e-43c7-bb11-f8407b04dd59', 'created_at': datetime.datetime(2023, 10, 14, 11, 36, 24, 576486), 'updated_at': datetime.datetime(2023, 10, 14, 11, 36, 24, 576530), 'first_name': 'John'}
 
 <h2>Example 3: Using update with a dictionary</h2>
 
@@ -104,10 +104,10 @@ solid@DESKTOP-6PPFSAT:~/H/AirBnB_clone$ echo "show User 55b76419-6009-4b36-b88a-
 
 <h2>Development environment 🛠️</h2>
 
-<h1>This project has been tested on Ubuntu 14.06.6 LTS</h1>
+<h1>This project has been tested on Ubuntu 20.04 LTS</h1>
 <li>Programming languaje Python</li>
-<li>The tests are carried out in virtualBox</li>
-<li>Development environment manager vagrant</li>
+<li>The tests are carried out in Ubuntu</li>
+<li>Development environment manager Ubuntu</li>
 <li>Style guidelines: PEP 8 (version 1.7) || Google Style Python Docstrings</li>
 
 <h2>AUTHORS</h2>
